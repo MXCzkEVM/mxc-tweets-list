@@ -12,7 +12,7 @@
 
 
 
-3. Move to Chat GPT and paste this : Only escape double quotes from below html code \<HTML-CODE\>
+3. Move to Chat GPT and paste this : Only escape double quotes from below html code with "\\" character \<HTML-CODE\>
 
 4. Please move to the repo and update the list, The top tweet in the list (index 0) is the latest, Please be sure to delete the oldest (In the bottom) after adding new one.
 
