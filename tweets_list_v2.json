@@ -1,0 +1,13 @@
+{
+    "name": "MXC Tweets",
+    "account": "MXCfoundation",
+    "tweets": [
+        "1711667890523635770",
+        "1702307924679270602"
+    ],
+    "version": {
+        "major": 2,
+        "minor": 0,
+        "patch": 0
+    }
+}
