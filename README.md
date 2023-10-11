@@ -3,6 +3,21 @@
 ## Marketing team guide 
 ### Dear marketing team, please go through these steps to add MXC tweet to the apps wallet page tweets
 
+## V2 guidlines 
+
+1. After posting the tweet, Click on tweet and copy the tweetid from the browser link
+
+![Untitled](https://github.com/reasje/mxc-tweets-list/assets/53487920/ab6a339a-4e2e-4fca-b6e5-48a92b592cf8)
+
+
+2. Please move to the repo and open the file `tweets_list_v2.json` and update the list, The top tweet in the list (index 0) is the latest, Please be sure to delete the oldest (In the bottom) after adding new one.
+
+Note : `tweets_list.json` is used for older version after the future release, meaning If users still use the old version they will see the tweets that are placed in `tweets_list.json`.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+## V1 guidlines 
+
 1. After posting the tweet, Click on three dots and choose Embed post
 ![Untitled](https://github.com/MXCzkEVM/mxc-tweets-list/assets/53487920/16f2660b-6b4f-4fab-aca9-6ca4a37113a5)
 
